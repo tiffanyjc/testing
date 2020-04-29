@@ -22,7 +22,7 @@ Use Accessibility Insights for Web to get an idea for the type of tests that can
 
 ### 2. Color and contrast
 
-- [ ] Normal-sized text has a contrast of at least 4.5:1 (*automated*, [1.4.3 Contrast (Minimum) — Level AA](https://www.w3.org/WAI/WCAG21/quickref/#contrast-minimum))
+- [x] Normal-sized text has a contrast of at least 4.5:1 (*automated*, [1.4.3 Contrast (Minimum) — Level AA](https://www.w3.org/WAI/WCAG21/quickref/#contrast-minimum))
 - [ ] Large text has a contrast of at least 3:1 (*automated*, [1.4.3 Contrast (Minimum) — Level AA](https://www.w3.org/WAI/WCAG21/quickref/#contrast-minimum))
 - [ ] Informative icons have a contrast of at least 3:1 (*manual*, [1.4.11 Non-text Contrast — Level AA](https://www.w3.org/WAI/WCAG21/quickref/#non-text-contrast))
 - [ ] User interface indicators have a contrast of at least 3:1 (*manual*, [1.4.11 Non-text Contrast — Level AA](https://www.w3.org/WAI/WCAG21/quickref/#non-text-contrast))
